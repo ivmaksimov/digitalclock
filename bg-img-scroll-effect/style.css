@@ -6,7 +6,7 @@ body {
 .bg-image {
   width: 100%;
   height: 100vh;
-  background: url(./pexels-arthouse-studio-4534200.jpg);
+  background: url(./bg1.jpg);
 
   background-size: 160%;
   background-attachment: fixed;
